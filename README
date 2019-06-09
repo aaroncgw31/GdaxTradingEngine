@@ -1,0 +1,9 @@
+1. Install OpenSSL and download certificate. Set up stunnel configuration. Local ip is 127.0.0.1 and port is 4197. Please find the details on https://docs.gdax.com/
+
+2. Install MySQL database and create database "TICKPREDICT"
+
+3. Add PYTHONPATH for folder pyfix to environment variable
+
+4.The package requires python 3 to run
+
+ 
